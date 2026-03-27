@@ -1,6 +1,5 @@
 # Lab 11 – React Native Fundamentals
 
-**Student Name:** BERE Abdisakhiev
 **Date:** 27.03.2026
 
 ---
